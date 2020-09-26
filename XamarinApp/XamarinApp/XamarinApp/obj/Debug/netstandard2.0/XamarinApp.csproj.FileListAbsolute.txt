@@ -1,0 +1,17 @@
+E:\Courses\Xamarin\XamarinApp\XamarinApp\XamarinApp\bin\Debug\netstandard2.0\XamarinApp.deps.json
+E:\Courses\Xamarin\XamarinApp\XamarinApp\XamarinApp\bin\Debug\netstandard2.0\XamarinApp.dll
+E:\Courses\Xamarin\XamarinApp\XamarinApp\XamarinApp\bin\Debug\netstandard2.0\ref\XamarinApp.dll
+E:\Courses\Xamarin\XamarinApp\XamarinApp\XamarinApp\bin\Debug\netstandard2.0\XamarinApp.pdb
+E:\Courses\Xamarin\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamarinApp.csprojAssemblyReference.cache
+E:\Courses\Xamarin\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Courses\Xamarin\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Courses\Xamarin\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamarinApp.AssemblyInfoInputs.cache
+E:\Courses\Xamarin\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamarinApp.AssemblyInfo.cs
+E:\Courses\Xamarin\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamarinApp.csproj.CoreCompileInputs.cache
+E:\Courses\Xamarin\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Courses\Xamarin\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamarinApp.dll
+E:\Courses\Xamarin\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\ref\XamarinApp.dll
+E:\Courses\Xamarin\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\XamarinApp.pdb
+E:\Courses\Xamarin\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+E:\Courses\Xamarin\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+E:\Courses\Xamarin\XamarinApp\XamarinApp\XamarinApp\obj\Debug\netstandard2.0\TinhTong.xaml.g.cs
